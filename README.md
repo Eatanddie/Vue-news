@@ -1,6 +1,8 @@
-# inew
+# Vue.js写的一个移动端新闻
+刚学Vue，就自己动手撸了一个项目，项目可能不成熟，请大家多提意见
 
-> A Vue.js project
+## 预览图
+![vue-new-gif](http://opu73ixj7.bkt.clouddn.com/GIF.gif)
 
 ## 使用 Build Setup
 

@@ -1,8 +1,8 @@
 # Vue.js写的一个移动端新闻
 刚学Vue，就自己动手撸了一个项目，项目可能不成熟，请大家多提意见
 
-## 预览图
-![](http://opu73ixj7.bkt.clouddn.com/GIF.gif)
+## 预览地址
+在线预览地址: [Vue新闻](http://imzjh.com/inew/#/)
 
 ## 技术栈
 **Vue2**：采用最新Vue2的语法

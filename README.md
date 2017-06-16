@@ -4,9 +4,6 @@
 ## 预览地址
 在线预览地址: [Vue新闻](http://imzjh.com/inew/#/)
 
-## 预览图片
-![](http://opu73ixj7.bkt.clouddn.com/GIF.gif)
-
 ## 技术栈
 **Vue2**：采用最新Vue2的语法
 

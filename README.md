@@ -2,7 +2,7 @@
 刚学Vue，就自己动手撸了一个项目，项目可能不成熟，请大家多提意见
 
 ## 预览图
-![vue-new-gif](http://opu73ixj7.bkt.clouddn.com/GIF.gif)
+![](http://opu73ixj7.bkt.clouddn.com/GIF.gif)
 
 ## 使用 Build Setup
 
